@@ -1,5 +1,5 @@
 # CatchIt  
-"Catch it" is a game which you use gesture to eliminate droping arrows before they hit the ground.  
+"Catch it" is a game which you use gestures to eliminate droping arrows before they hit the ground.  
 To play, follow the hints show on the screen.  
 Run on iOS 7 or later version.
 
